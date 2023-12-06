@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180404648185",
+    "project_id": "ptg-pans",
+    "storage_bucket": "ptg-pans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180404648185:android:06381c8437ab1d00528a28",
+        "android_client_info": {
+          "package_name": "com.example.animatedsplashscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAblL5bsGS0papZnpOjNTlza69B8iErU6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
